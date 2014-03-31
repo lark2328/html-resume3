@@ -1,0 +1,124 @@
+body {
+
+background-color: black;
+
+}
+
+#nav {
+	position: absolute;
+	top: 75px;
+	left: 435px;
+	width:500px; 
+	margin: 0 auto; 
+}
+
+#container {
+	width:1200px; 
+	margin: 0 auto; 
+	padding-top: 10px;
+}
+
+.nav {
+
+display: inline-block;
+background-color: red;
+color: white;
+width: 150px;
+border: 5px solid black;
+border-radius: 50%;
+font-family: Impact,Verdana,serif;
+text-align: center;
+
+}
+
+#box {
+
+position: relative;
+float: left;
+background-color: white;
+color: black;
+width: 700px;
+border: 15px solid red;
+border-radius: 5%;
+font-family: Arial;
+text-indent: 5px;
+
+}
+
+#box2 {
+
+position: relative;
+float: right;
+background-color: white;
+color: black;
+width: 300px;
+border: 10px solid red;
+border-radius: 5%;
+font-family: Arial;
+text-indent: 5px;
+
+}
+
+#header {
+
+position: relative;
+top: 0;
+width: 100%;
+height: 100px;
+color: black;
+background-color: red;
+font-family: Arial;
+}
+
+img {
+	position: absolute;
+	top: 5px;
+	left: 650px;
+	width: 50px;
+	height:50px;
+}
+
+#name {
+	font-family:Impact,Verdana,Arial;
+	font-size: 75px;
+	text-align: left;
+	margin: 0;
+}
+
+#add {
+	position: absolute;
+	top:10px;
+	right:10px;
+	font-family: Arial;
+	font-size: 20px;
+	margin: 0;
+}
+
+.heading {
+
+	font-family:Arial,serif;
+	color:red;
+	text-decoration:underline;
+}
+
+.info {
+
+font-family:Impact;
+color:black;
+
+}
+
+.details {
+
+font-family:Arial,serif;
+color:green;
+
+}
+
+.bullets {
+
+font-family:Arial,serif;
+text-decoration: inherit;
+color:black;
+
+}
